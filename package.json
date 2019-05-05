@@ -1,0 +1,26 @@
+{
+  "name": "sparkling-jesus",
+  "version": "1.0.0",
+  "description": "Some snippets for the use of Jesús Correa of Bit&Nibs",
+  "main": "main.js",
+  "dependencies": {
+    "sparkpost": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chococoin/sparkling-jesus.git"
+  },
+  "keywords": [
+    "SparkPost-examples"
+  ],
+  "author": "Germán Lugo / Bit&Nibs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chococoin/sparkling-jesus/issues"
+  },
+  "homepage": "https://github.com/Chococoin/sparkling-jesus#readme"
+}
